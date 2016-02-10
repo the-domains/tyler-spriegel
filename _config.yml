@@ -1,0 +1,28 @@
+name: Tyler Spriegel
+favicon: null
+layout_spectrum: 0.034530409378930926
+typography_spectrum: 0.9399808279704303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11658500647172332
+  lightness: 0.4763302232604474
+  saturation: 0.7978838609997183
+  rhythmicContrast: 0.8320504168514162
+purpose: []

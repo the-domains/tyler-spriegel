@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tyler Spriegel]]></title>
+        <description><![CDATA[Tyler Spriegel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 00:41:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am tyler spriegel</p>]]></description>
+            <link>undefined6fab35cb-7862-4c63-b5fe-cbd55fb71966/index.html</link>
+            <guid isPermaLink="false">6fab35cb-7862-4c63-b5fe-cbd55fb71966</guid>
+            <pubDate>Wed, 10 Feb 2016 00:41:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

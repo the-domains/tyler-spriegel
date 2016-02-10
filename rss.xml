@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tyler Spriegel]]></title>
         <description><![CDATA[Tyler Spriegel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tyler-spriegel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 00:41:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 00:41:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tyler-spriegel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I am tyler spriegel</p>]]></description>
-            <link>undefined6fab35cb-7862-4c63-b5fe-cbd55fb71966/index.html</link>
+            <link>https://thegrid.ai/tyler-spriegel/6fab35cb-7862-4c63-b5fe-cbd55fb71966/index.html</link>
             <guid isPermaLink="false">6fab35cb-7862-4c63-b5fe-cbd55fb71966</guid>
-            <pubDate>Wed, 10 Feb 2016 00:41:06 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 00:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
